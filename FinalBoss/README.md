@@ -13,6 +13,6 @@ It was pretty hard learning the logic behind pandas and matplotlib (even though 
 
 well that's it, I don't want to drag this out more than I have to.<br>
 peace<br>
-**Abel**
+**Mac**
 
 *p.s I know in "Nilaifilsafat2" there's an error, but I couldn't care less considering the figures I need to show was already there*
