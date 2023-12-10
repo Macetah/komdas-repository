@@ -9,5 +9,6 @@ As you can see, not all of the files were uploaded because I couldn't bother upl
 it was fun and also hell, my wish is to become a fullstack dev but hey if I can't do python idk how I'm going to do anything else
 
 anyways, enjoy the bits and pieces of broken code here and there
+
 peace
 - Abel
